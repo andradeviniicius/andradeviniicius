@@ -1,6 +1,6 @@
 ### Olá, meu nome é Dade 🙃
 
-- 🌱 Atualmente trabalho como Auxiliar de Sistemas tendo contato com as linguagens Delphi e PL/SQL
+- 🌱 Atualmente trabalho como Auxiliar de Sistemas tendo contato com as linguagens Delphi e PL/SQL em banco de dados Oracle
 - 🔭 Busco aprender cada vez mais pra me tornar um desenvolvedor no futuro, para isso estou estudando Desenvolvimento de Sistemas no curso Certified Tech Developer na DigitalHouse 
 - 👯 Estou encantado com aplicações JavaScript, HTML e CSS e estudando todo dia sobre :)
 
