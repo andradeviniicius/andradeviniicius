@@ -1,8 +1,8 @@
 ### Olá, meu nome é Dade 🙃
 
-🔭 Estudo desenvolvimento de software a aproximadamente 10 meses e possuo experiencia com a tríade web: HTML, CSS, JS também com banco de dados relacionais como Oracle e MySQL atualmente estou desenvolvendo projetos em React e Next.JS </br>
-🌱 Trabalho como Assistente de TI dando suporte a sistemas ERP, CRM entre outros</br>
-👯 Fora do mundo tech eu sou apaixonado no mundo automobilístico :) </br></br>
+🔭 Estudo desenvolvimento de software a quase 2 anos e possuo experiencia com a tríade web: HTML, CSS, JS e React também com banco de dados relacionais como Oracle e MySQL atualmente estou desenvolvendo projetos em React e Next.JS </br>
+🌱 Ja trabalhei como Assistente de TI dando suporte a sistemas ERP, CRM entre outros e hoje atuo como Desenvolvedor Front-end Trainee</br>
+👯 Uma curiosidade é que fora do mundo tech eu sou apaixonado no mundo automobilístico e que apesar parecer um amante do rock pela minha imagem eu vou muito pro lado do rap e pagode :) </br></br>
 
 <div>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
