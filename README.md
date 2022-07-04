@@ -1,6 +1,6 @@
 ### Olá, meu nome é Dade 🙃
 
-🔭 Estudo desenvolvimento de software a quase 2 anos e possuo habilidades com a tríade web: HTML, CSS, JS e também com o framework React. Hoje em dia estou trabalhando principalmente em projetos em React </br>
+🔭 Estudo desenvolvimento de software a pouco mais de 1 ano e possuo habilidades com a tríade web: HTML, CSS, JS e também com o framework React. Hoje em dia minha principal ferramenta é o React </br>
 🌱 Ja trabalhei como Assistente de TI dando suporte a sistemas ERP, CRM entre outros e hoje atuo como Desenvolvedor Front-end Trainee</br>
 🤓 Alias, na parte do back também tenho experiencia com servidores e na área de dados com banco de dados relacionais como Oracle e MySQL </br>
 🔮 Atualmente busco me especializar em React e estudar mais sobre BackEnd para ampliar cada vez mais minhas habilidades! </br>
