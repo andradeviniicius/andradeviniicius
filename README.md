@@ -1,7 +1,7 @@
 ### Olá, meu nome é Dade 🙃
 
 🔭 Estudo desenvolvimento de software a pouco mais de 1 ano e possuo habilidades com a tríade web: HTML, CSS, JS e também com o framework React. Hoje em dia minha principal ferramenta é o React </br>
-🌱 Ja trabalhei como Assistente de TI dando suporte a sistemas ERP, CRM entre outros e hoje atuo como Desenvolvedor Front-end Trainee</br>
+🌱 Ja trabalhei como Assistente de TI dando suporte a sistemas ERP, CRM entre outros e hoje atuo como Desenvolvedor Front-end na Valtech</br>
 🤓 Alias, na parte do back também tenho experiencia com servidores e na área de dados com banco de dados relacionais como Oracle e MySQL </br>
 🔮 Atualmente estou me especializando em React e busco estudar mais sobre BackEnd para ampliar cada vez mais minhas habilidades! </br>
 👯 Uma curiosidade é que fora do mundo tech eu sou apaixonado no mundo automobilístico e que apesar de parecer um amante do rock pela minha imagem, eu vou muito mais pro lado do MPB moderno e classico :) </br></br>
