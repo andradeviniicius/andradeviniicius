@@ -4,7 +4,7 @@
 🌱 Ja trabalhei como Assistente de TI dando suporte a sistemas ERP, CRM entre outros e hoje atuo como Desenvolvedor Front-end na Valtech</br>
 🤓 Alias, na parte do back também tenho experiencia com servidores e na área de dados com banco de dados relacionais como Oracle e MySQL </br>
 🔮 Atualmente estou me especializando em React e busco estudar mais sobre BackEnd para ampliar cada vez mais minhas habilidades! </br>
-👯 Uma curiosidade é que fora do mundo tech eu sou apaixonado no mundo automobilístico e que apesar de parecer um amante do rock pela minha imagem, eu vou muito mais pro lado do MPB moderno e classico :) </br></br>
+👯 Uma curiosidade é que fora do mundo tech eu sou apaixonado no mundo automobilístico e que apesar de parecer um amante do rock pela minha imagem, eu vou muito mais pro lado do MPB Moderno (samba pagode rap funk etc :) </br></br>
 
 <div>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
