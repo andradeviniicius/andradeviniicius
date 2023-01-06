@@ -1,10 +1,10 @@
-### Olá, meu nome é Dade 🙃
+### Hi, You can call me Dade 🙃
 
-🔭 Estudo desenvolvimento de software a pouco mais de 1 ano e possuo habilidades com a tríade web: HTML, CSS, JS e também com o framework React. Hoje em dia minha principal ferramenta é o React </br>
-🌱 Hoje atuo como Desenvolvedor Front-end na Valtech utilizando React, testes unitários, CMS's entre diversas outras stacks </br>
-🤓 Alias, na parte do back também tenho experiencia com servidores e banco de dados relacionais como Oracle e MySQL </br>
-🔮 Atualmente estou me especializando em React e busco estudar mais sobre BackEnd para ampliar cada vez mais minhas habilidades! </br>
-👯 Uma curiosidade é que fora do mundo tech eu sou apaixonado no mundo automobilístico e que apesar de parecer um amante do rock pela minha imagem, eu vou muito mais pro lado do MPB Moderno (samba pagode rap funk etc :) </br></br>
+🔭 Front end developer passionate with creating new things and making user happy :D </br>
+🌱 Currently working with React, AEM, TypeScript, NextJS, Jest and anything that pays my bills </br>
+🤓 I also worked with Oracle and MySQL databases and as IT assistant giving support with Windows AD, Office365 and ERP </br>
+🔮 Im currently focusing in the React ecosystem and exploring the backend world so i can always improve my skills as a developer! </br>
+👯 Two curiosities about me is that besides tech im passionate with automobile and traveling and despite my rock lover look i actually enjoy listening to samba, pagode, rap and funk :) </br></br>
 
 <div>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -17,8 +17,6 @@
 
 
 </div>
-
-
 
 
 
