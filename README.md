@@ -1,7 +1,7 @@
 ### Hi, You can call me Dade 🙃
 
 🔭 Front end developer passionate with creating new things and making user happy :D </br>
-🌱 Currently working with React, AEM, TypeScript, NextJS, Jest and anything that pays my bills </br>
+🌱 Currently working with React, AEM, TypeScript, NextJS, Jest </br>
 🤓 I also worked with Oracle and MySQL databases and as IT assistant giving support with Windows AD, Office365 and ERP </br>
 🔮 Im currently focusing in the React ecosystem and exploring the backend world so i can always improve my skills as a developer! </br>
 👯 Two curiosities about me is that besides tech im passionate with automobile and traveling and despite my rock lover look i actually enjoy listening to samba, pagode, rap and funk :) </br></br>
