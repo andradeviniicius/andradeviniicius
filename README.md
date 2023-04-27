@@ -4,7 +4,7 @@
 🌱 Currently working with React, AEM, TypeScript, NextJS, Jest </br>
 🤓 I also worked with Oracle and MySQL databases and as IT assistant giving support with Windows AD, Office365 and ERP </br>
 🔮 Im currently focusing in the React ecosystem and exploring the backend world so i can always improve my skills as a developer! </br>
-👯 Two curiosities about me is that besides tech im passionate with automobile and traveling and despite looking like a metalhead i actually enjoy listening to brazilian songs like samba, pagode, rap and funk :) </br></br>
+👯 Two curiosities about me is that besides tech im passionate with automobile and gaming and despite looking like a metalhead i actually enjoy listening to brazilian songs like samba, pagode, rap and funk :) </br></br>
 
 <div>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -13,17 +13,15 @@
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+
 
 
 </div>
 
 
 
-
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-</br>
 ____
 ![Vinicius de Andrade Estatisticas do Github](https://github-readme-stats.vercel.app/api?username=andradeviniicius&show_icons=true&theme=radical)</br>
 <p align="left">
@@ -34,8 +32,4 @@ ____
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 
 </a>
-<a href="mailto:viniciusdandrade01@gmail.com" alt="gmail" target="_blank">
-
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
-
 </a>
