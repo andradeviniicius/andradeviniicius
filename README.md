@@ -4,7 +4,7 @@
 🌱 Currently working with React, AEM, TypeScript, NextJS, Jest </br>
 🤓 I also worked with Oracle and MySQL databases and as IT assistant giving support with Windows AD, Office365 and ERP </br>
 🔮 Im currently focusing in the React ecosystem and exploring the backend world so i can always improve my skills as a developer! </br>
-👯 Two curiosities about me is that besides tech im passionate with automobile and gaming and despite looking like a metalhead i actually enjoy listening to brazilian songs like samba, pagode, rap and funk :) </br></br>
+👯 Two curiosities about me is that besides tech im passionate with automobile especially motorcycles and games such as SoulsLike / Action RPG or any competitive game, right now the game im playing the most is Valorant :)
 
 <div>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
